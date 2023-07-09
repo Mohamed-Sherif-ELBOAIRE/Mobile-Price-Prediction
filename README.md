@@ -1,6 +1,6 @@
 # Mobile-Price-Prediction 
 
-##Data<br>
+## Data<br>
 The mobile price classification dataset is a dataset containing various attributes of mobile phones, which can be used to build a machine learning model for predicting price ranges of mobile devices.<br>
 The dataset includes features such as:<br>
 ● Id : ID.<br>
@@ -27,7 +27,7 @@ The dataset includes features such as:<br>
 ● price_range: This is the target variable with values of 0(low cost), 1(medium cost),
 2(high cost) and 3(very high cost).<br>
 <br><br>
-##Objective<br>
+## Objective<br>
 The objective of this classification task is to develop a machine learning model that can predict the price range of a mobile phone based on its various attributes. <br>
 The dataset can be used to train and evaluate the model's performance in accurately classifying mobile prices.<br>
 By analyzing this dataset, candidates are required to follow machine learning workflow particularly by:<br>
