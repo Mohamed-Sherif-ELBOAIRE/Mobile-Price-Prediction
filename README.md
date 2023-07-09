@@ -1,7 +1,7 @@
 # Mobile-Price-Prediction 
 
 ##Data
-The mobile price classification dataset is a dataset containing various attributes of mobile
+The mobile price classification dataset is a dataset containing various attributes of mobile<br>
 phones, which can be used to build a machine learning model for predicting price ranges of
 mobile devices. The dataset includes features such as:
 ● Id : ID.
